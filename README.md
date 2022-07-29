@@ -1,1 +1,1 @@
-[LINK](https://github.com/The-DigitalAcademy/andisiwe-car-dealer.git/)
+[LINK](https://the-digitalacademy.github.io/andisiwe-car-dealer/)
