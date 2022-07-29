@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andisiwe-car-dealer/static/css/main.0e170fb8.css",
+    "main.js": "/andisiwe-car-dealer/static/js/main.e8de458d.js",
+    "index.html": "/andisiwe-car-dealer/index.html",
+    "main.0e170fb8.css.map": "/andisiwe-car-dealer/static/css/main.0e170fb8.css.map",
+    "main.e8de458d.js.map": "/andisiwe-car-dealer/static/js/main.e8de458d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e170fb8.css",
+    "static/js/main.e8de458d.js"
+  ]
+}
