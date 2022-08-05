@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/andisiwe-car-dealer/static/css/main.4dc61655.css",
-    "main.js": "/andisiwe-car-dealer/static/js/main.9298c960.js",
+    "main.css": "/andisiwe-car-dealer/static/css/main.72354e19.css",
+    "main.js": "/andisiwe-car-dealer/static/js/main.6752e9f5.js",
     "index.html": "/andisiwe-car-dealer/index.html",
-    "main.4dc61655.css.map": "/andisiwe-car-dealer/static/css/main.4dc61655.css.map",
-    "main.9298c960.js.map": "/andisiwe-car-dealer/static/js/main.9298c960.js.map"
+    "main.72354e19.css.map": "/andisiwe-car-dealer/static/css/main.72354e19.css.map",
+    "main.6752e9f5.js.map": "/andisiwe-car-dealer/static/js/main.6752e9f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dc61655.css",
-    "static/js/main.9298c960.js"
+    "static/css/main.72354e19.css",
+    "static/js/main.6752e9f5.js"
   ]
 }
