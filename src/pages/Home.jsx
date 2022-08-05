@@ -4,12 +4,14 @@ import Card from '../components/Card';
 
 
 
+
 function Home() {
   return (
     <div className='mb-5 m-3 fw-bold text-white' >
     <Header name="Welcome to Our World - Toyota " />
     <div className='container'>
       <div className='row'>
+      
 
         <Card 
         image='https://toyota-cms.azureedge.net/toyotacms/attachments/cki43v82l000p0gm6iwpr15jr-0101010247-front.mobile.png'
@@ -51,8 +53,8 @@ function Home() {
         />
 
 <Card 
-        image='https://www.ccarprice.com/products/Ford_Maverick_XL_Hybrid_2022.jpg'
-        name='ford maverick'
+        image='https://static.autox.com/uploads/cars/2020/09/Toyota-Urban-Cruiser.jpg'
+        name='Toyota Urban Cruiser '
         price='R 319,920'
         />
 
