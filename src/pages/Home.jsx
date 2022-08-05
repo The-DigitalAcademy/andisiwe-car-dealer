@@ -6,7 +6,7 @@ import Card from '../components/Card';
 
 function Home() {
   return (
-    <div className='mb-5'>
+    <div className='mb-5 m-3 fw-bold text-white' >
     <Header name="Welcome to Our World - Toyota " />
     <div className='container'>
       <div className='row'>
