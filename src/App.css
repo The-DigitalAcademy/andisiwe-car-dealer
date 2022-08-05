@@ -17,3 +17,8 @@ body {
 .nav-css{
   text-decoration: none;
 }
+
+.navbar .rightSide {
+  padding-right: 50px;
+  justify-content: flex-end;
+}
