@@ -7,7 +7,7 @@ function BasicExample() {
   return (
     <Navbar bg="danger" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="#">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkkmrUNLGwbxwYTHPGd9ETaqVBw6c4Upo8PqGMN3-CC8Oplk1tBToaVx6vo_7EeYi0jo&usqp=CAU"
             alt=""
@@ -21,6 +21,7 @@ function BasicExample() {
               <Link className="m-3 fw-bold text-white" to="/">Home</Link>
             </nav>
             <br></br>
+            
             <nav>
               <Link className="m-3 fw-bold text-white" to="/about">About</Link>
             </nav>

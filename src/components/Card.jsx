@@ -1,28 +1,16 @@
-import React from 'react';
+import React from "react";
+import { Link } from "react-router-dom";
 
-function Card({ image, name, price }) {
-
-  let amount = Number(price.slice(1))
-
-  function buy() {
-    if (amount <= 200) {
-      alert('We are currently out of stock')
-    } else {
-      alert('We are available lot of stock')
-    }
-  }
-
+function Card({ car }) {
   return (
-    <div className='col-md-3 mb-4'>
-      <div className='card text-center'>
-        <img src={image} className='card-img-top' alt='...' />
-        <div className='card-body'>
-          <p className='card-text'>{name}</p>
-          <h4 className='card-text font-bold'>{price}</h4>
+    <div className="col-md-3 mb-4">
+      <div className="card">
+        <img src={car.image} className="card-img-top" alt="..." />
+        <div className=" card-body text-center text-white">
           <br />
-          <button onClick={buy} className='btn btn-danger'>
-           BUY NOW
-          </button>
+          <Link to={`/product/${car.id}`} className="btn btn-danger">
+            BUY NOW
+          </Link>
         </div>
       </div>
     </div>
